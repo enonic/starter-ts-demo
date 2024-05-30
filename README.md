@@ -1,4 +1,4 @@
-# TypeScript Starter for Enonic XP
+# Full-blown TypeScript Starter for Enonic XP
 
 This starter kit will set up an empty shell for your new Enonic app.
 
